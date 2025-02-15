@@ -77,12 +77,6 @@ const Home = () => {
                     </span>
                 </div>
             </div>
-            <footer>
-                <h4>
-                    Build by &nbsp;
-                    <Link href="https://github.com/Mohitur669" target="_blank" rel="noopener noreferrer">Mohd Mohitur Rahaman</Link>
-                </h4>
-            </footer>
         </div>
     );
 };
